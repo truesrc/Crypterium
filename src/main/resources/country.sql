@@ -1,0 +1,1 @@
+INSERT INTO country (id, name, time_start, count) VALUES (1, 'ABW', 0, 0), (2, 'AFG', 0, 0), (3, 'AGO', 0, 0), (4, 'AIA', 0, 0), (5, 'AND', 0, 0), (6, 'ALA', 0, 0), (7, 'ALB', 0, 0), (8, 'ARE', 0, 0), (9, 'ARG', 0, 0), (10, 'ARM', 0, 0)
